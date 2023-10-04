@@ -1,5 +1,5 @@
 # RunningApp
- Running App
+ Running App [Learned From [@Phillip](https://github.com/philipplackner)]
 
 # Tech Used
 1. View Binding
